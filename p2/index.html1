@@ -22,4 +22,10 @@
         <input type="radio" name="question2">the case to lock all the elements
     </div>
     <p>Q3.Javascript defines html element as?</p>
+    <div class="three">
+        <input type="radio" name="question3">colors
+        <input type="radio" name="question3">numbers
+        <input type="radio" name="question3">images
+        <input type="radio" name="question3" id="correct3">objects
+    </div>
 </body>
