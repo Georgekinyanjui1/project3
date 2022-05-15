@@ -49,4 +49,8 @@
         <input type="radio" name="question6">danger
         <input type="radio" name="question6">exclamation
     </div>
+</div>
+<button id="submitbtn">Submit</button>
+<script src="index.js"></script>
 </body>
+</html>
