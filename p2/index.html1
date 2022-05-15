@@ -28,4 +28,5 @@
         <input type="radio" name="question3">images
         <input type="radio" name="question3" id="correct3">objects
     </div>
+    <p>Q4.How  is the javascrit extension written?</p>
 </body>
