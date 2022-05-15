@@ -14,4 +14,11 @@
         <input type="radio" name="question1">a method of calculating math
         <input type="radio" name="question1">a book about fish
     </div>
+    <p>Q2.what is the purpose of console in relation to Javascript?</p>
+    <div class="two">
+        <input type="radio" name="question2" id="correct2">a platform to display the outcome of programmers work
+        <input type="radio" name="question2">a working space for html
+        <input type="radio" name="question2">a type of code used by genius
+        <input type="radio" name="question2">the case to lock all the elements
+    </div>
 </body>
