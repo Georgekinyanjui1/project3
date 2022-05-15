@@ -42,4 +42,11 @@
         <input type="radio" name="question5">math power
         <input type="radio" name="question5">extention
     </div>
+    <p>Q6.what is the is the meaning of the! </p>
+    <div class="six">
+        <input type="radio" name="question6" id="correct6">index notation
+        <input type="radio" name="question6">harzard
+        <input type="radio" name="question6">danger
+        <input type="radio" name="question6">exclamation
+    </div>
 </body>
