@@ -29,4 +29,10 @@
         <input type="radio" name="question3" id="correct3">objects
     </div>
     <p>Q4.How  is the javascrit extension written?</p>
+    <div class="four">
+        <input type="radio" name="question4">.html
+        <input type="radio" name="question4">.css
+        <input type="radio" name="question4" id="correct4">.js
+        <input type="radio" name="question4">.jsp
+    </div>
 </body>
