@@ -8,4 +8,10 @@
 </head>
 <body>
     <p>Q1.What is Javascript?</p>
+    <div class="one">
+        <input type="radio" name="question1">a place for relaxation and drinking coffee
+        <input type="radio" name="question1" id="correct1">a web language
+        <input type="radio" name="question1">a method of calculating math
+        <input type="radio" name="question1">a book about fish
+    </div>
 </body>
