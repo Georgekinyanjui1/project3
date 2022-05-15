@@ -35,4 +35,11 @@
         <input type="radio" name="question4" id="correct4">.js
         <input type="radio" name="question4">.jsp
     </div>
+    <p>Q5.choose which one is a math oparation</p>
+    <div class="five">
+        <input type="radio" name="question5">console
+        <input type="radio" name="question5" id="correct5">addition
+        <input type="radio" name="question5">math power
+        <input type="radio" name="question5">extention
+    </div>
 </body>
