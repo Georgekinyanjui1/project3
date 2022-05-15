@@ -21,4 +21,5 @@
         <input type="radio" name="question2">a type of code used by genius
         <input type="radio" name="question2">the case to lock all the elements
     </div>
+    <p>Q3.Javascript defines html element as?</p>
 </body>
