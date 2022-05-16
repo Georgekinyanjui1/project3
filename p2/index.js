@@ -21,3 +21,4 @@ function result(){
         score++;
     };
 }
+alert("your score is:"+score)
